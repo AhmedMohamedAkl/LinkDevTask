@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LINK DEVELOPMENT </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="explore">Explore</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="gallery">Gallery</string>
+    <string name="e_magazone">E-Magazone</string>
+    <string name="wish_list">Wish List</string>
+    <string name="search">Search</string>
+    <string name="by">"By "</string>
+    <string name="open_website">OPEN WEBSITE</string>
+    <string name="welcome">Welcome</string>
+    <string name="tony_roshdy">Tony Roshdy</string>
+    <string name="section">Section</string>
+</resources>
